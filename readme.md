@@ -15,3 +15,4 @@ Git tracks changes.
 Git tracks changes of files.
 
 git work vs version lib
+Creating a new branch is quick AND simple.
